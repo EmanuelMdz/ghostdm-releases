@@ -1,2 +1,2 @@
-# ainnovate-outbound-releases
-Download Ainnovate Outbound for Windows
+# ghostdm-releases
+Download GhostDM for Windows
